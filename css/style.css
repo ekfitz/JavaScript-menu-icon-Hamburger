@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+#hamburger {
+  position: absolute;
+  width: 30%;
+  height: 40%;
+  top: 5vh;
+  left: 40%;
+  background-color: purple;
+  border: solid blue;
+  border-width: 1em;
+  border-radius: 1em;
+  opacity: 0.5;
+}
